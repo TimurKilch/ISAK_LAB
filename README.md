@@ -56,6 +56,9 @@
 ![Screenshot](/lab2/Screenshot_14.png)
 14. Переведем процедуру в интерактивный режим:
 [root@localgost dimausenko]#fg 
+```sh
+python slp.py
+```
 15. Завершим выполнение процесса с помощью команды kill. 
 ![Screenshot](/lab2/Screenshot_15.png)
 
